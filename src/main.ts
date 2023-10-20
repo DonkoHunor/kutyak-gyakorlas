@@ -43,7 +43,8 @@ function tablazat(){
 
     btnTorles.innerText = 'Törlés';
     btnTorles.addEventListener('click',() => {
-      dogs.splice(idx, 1);
+      const i = dogs.indexOf(d);
+      dogs.splice(i, 1);
       tr.remove()
     })
 
