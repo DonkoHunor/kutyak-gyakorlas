@@ -1,0 +1,12 @@
+.jeloles{
+  background-color: red;
+}
+
+/*  */
+.table > tbody > tr.jeloles > td {
+  background-color: red;
+}
+
+.table > tbody > tr > td.error{
+  color: red;
+}

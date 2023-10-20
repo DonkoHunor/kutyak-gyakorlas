@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "nev": "Alfred",
+        "eletkor": 12,
+        "fajta": "Boxer",
+        "gazda_neve": "Devon Ortiz"
+    },
+    {
+        "id": 2,
+        "nev": "Austyn",
+        "eletkor": 5,
+        "fajta": "Uszkár",
+        "gazda_neve": "Louisa King"
+    },
+    {
+        "id": 3,
+        "nev": "Melvina",
+        "eletkor": 6,
+        "fajta": "Bulldog",
+        "gazda_neve": "Brandy Nikolaus"
+    },
+    {
+        "id": 4,
+        "nev": "Jannie",
+        "eletkor": 8,
+        "fajta": "Labrador",
+        "gazda_neve": "Laurianne Rodriguez"
+    },
+    {
+        "id": 5,
+        "nev": "Judy",
+        "eletkor": 5,
+        "fajta": "Labrador",
+        "gazda_neve": "Johnnie Paucek"
+    },
+    {
+        "id": 6,
+        "nev": "Wilbert",
+        "eletkor": 1,
+        "fajta": "Csivava",
+        "gazda_neve": "Dasia Braun Sr."
+    },
+    {
+        "id": 7,
+        "nev": "Alfreda",
+        "eletkor": 12,
+        "fajta": "Puli",
+        "gazda_neve": "Rosella Crona"
+    },
+    {
+        "id": 8,
+        "nev": "Enrique",
+        "eletkor": 3,
+        "fajta": "Labrador",
+        "gazda_neve": "Prof. Lea Spinka Jr."
+    },
+    {
+        "id": 9,
+        "nev": "Talon",
+        "eletkor": 8,
+        "fajta": "Csivava",
+        "gazda_neve": "Tara Schinner Jr."
+    },
+    {
+        "id": 10,
+        "nev": "Domingo",
+        "eletkor": 2,
+        "fajta": "Németjuhász",
+        "gazda_neve": "Miss Asia Kuhn Jr."
+    },
+    {
+        "id": 11,
+        "nev": "Sandrine",
+        "eletkor": 9,
+        "fajta": "Németjuhász",
+        "gazda_neve": "Ms. Dayana Schaefer"
+    },
+    {
+        "id": 12,
+        "nev": "Arlene",
+        "eletkor": 10,
+        "fajta": "Bulldog",
+        "gazda_neve": "Prof. Dean Boehm"
+    },
+    {
+        "id": 13,
+        "nev": "Hilario",
+        "eletkor": 1,
+        "fajta": "Boxer",
+        "gazda_neve": "Isabella Ondricka III"
+    },
+    {
+        "id": 14,
+        "nev": "Kayley",
+        "eletkor": 1,
+        "fajta": "Puli",
+        "gazda_neve": "Marlen Auer"
+    },
+    {
+        "id": 15,
+        "nev": "Hallie",
+        "eletkor": 12,
+        "fajta": "Puli",
+        "gazda_neve": "Ophelia D'Amore"
+    }
+]
